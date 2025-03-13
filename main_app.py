@@ -74,5 +74,5 @@ Valor_lazer = Label(frameBaixo, text='Lazer: ', relief=FLAT, width=35, anchor=NW
 Valor_lazer.place(x=10, y=160)
 Valor_lazer = Label(frameBaixo, relief=FLAT, width=22, anchor=NW, font=('Verdana 12'), bg=co1, fg=co3)
 Valor_lazer.place(x=10, y=190)
-
+ 
 janela.mainloop()
